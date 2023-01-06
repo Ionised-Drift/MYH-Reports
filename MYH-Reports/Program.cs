@@ -1,3 +1,5 @@
+using MYH_Reports.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -13,6 +15,14 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+using (var scope = app.Services.CreateScope())
+{
+    var service = scope.ServiceProvider;
+    var context = service.GetService<MyhContext>();
+}
+
+//builder.Services.AddDbContext<MyhContext>(option =>
+//    option.UseSqlServer(builder.Configuration.GetConnectionString("MyhContext")));
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
