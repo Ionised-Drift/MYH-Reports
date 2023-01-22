@@ -16,8 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = S:\GitHub\MYH-Reports
 build_property._RazorSourceGeneratorDebug = 
 
+[S:/GitHub/MYH-Reports/Views/Home/AccountView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NvdW50Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/GitHub/MYH-Reports/Views/Home/CreateEstimate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFc3RpbWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/GitHub/MYH-Reports/Views/Home/CreateInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/GitHub/MYH-Reports/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/GitHub/MYH-Reports/Views/Home/JobView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2JWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [S:/GitHub/MYH-Reports/Views/Home/Privacy.cshtml]

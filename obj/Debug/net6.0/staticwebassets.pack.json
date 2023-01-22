@@ -1,12 +1,56 @@
 {
   "Files": [
     {
-      "Id": "S:\\GitHub\\MYH-Reports\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MYH-Reports.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MYH-Reports.bundle.scp.css"
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "S:\\GitHub\\MYH-Reports\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hex_a\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "S:\\GitHub\\MYH-Reports\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MYH-Reports.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MYH-Reports.bundle.scp.css"
     },
     {
       "Id": "S:\\GitHub\\MYH-Reports\\wwwroot\\favicon.ico",
@@ -243,6 +287,10 @@
     {
       "Id": "S:\\GitHub\\MYH-Reports\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "S:\\GitHub\\MYH-Reports\\wwwroot\\sass\\site.scss",
+      "PackagePath": "staticwebassets\\sass\\site.scss"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MYH-Reports.Microsoft.AspNetCore.StaticWebAssets.props",
